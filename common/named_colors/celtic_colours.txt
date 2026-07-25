@@ -1,0 +1,12 @@
+﻿colors = {
+	celtic = { 255 255 255 }
+	brythonic = { 255 255 255 }
+	goidelic = { 255 255 255 }
+	breton = { 255 255 255 }
+	cornish = { 255 255 255 }
+	cumbrian = { 255 255 255 }
+	welsh = { 255 255 255 }
+	pictish = { 255 255 255 }
+	irish = { 255 255 255 }
+	gaelic = { 255 255 255 }
+}

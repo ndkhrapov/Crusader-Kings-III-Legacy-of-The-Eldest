@@ -1,0 +1,53 @@
+﻿language_celtic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_celtic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_brythonic }
+			multiply = 10
+		}
+	}
+	
+	color = celtic
+}
+
+language_brythonic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_brythonic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_brythonic }
+			multiply = 10
+		}
+	}
+	
+	color = brythonic
+}
+
+language_goidelic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_goidelic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_goidelic }
+			multiply = 10
+		}
+	}
+	
+	color = goidelic
+}
