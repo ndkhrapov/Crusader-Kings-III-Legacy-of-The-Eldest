@@ -1,0 +1,108 @@
+﻿celtic = {
+	color = celtic
+	
+	ethos = ethos_communal
+	heritage = heritage_celtic
+	language = language_celtic
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_collective_lands
+		tradition_longbow_competitions
+		tradition_storytellers
+		tradition_poetry
+		tradition_fishermen
+		tradition_seafaring
+		tradition_maritime_mercantilism
+	}
+	
+	name_list = name_list_celtic
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0 0 }
+	house_coa_mask_scale = { 1 1 }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}
+
+brythonic = {
+	color = brythonic
+	created = 476.1.1
+	parents = { celtic }
+	
+	ethos = ethos_communal
+	heritage = heritage_celtic
+	language = language_celtic
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_collective_lands
+		tradition_longbow_competitions
+		tradition_storytellers
+		tradition_poetry
+		tradition_fishermen
+		tradition_seafaring
+		tradition_maritime_mercantilism
+	}
+	
+	name_list = name_list_brythonic
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0 0 }
+	house_coa_mask_scale = { 1 1 }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}
+
+goidelic = {
+	color = goidelic
+	created = 476.1.1
+	parents = { celtic }
+	
+	ethos = ethos_communal
+	heritage = heritage_celtic
+	language = language_celtic
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_collective_lands
+		tradition_longbow_competitions
+		tradition_storytellers
+		tradition_poetry
+		tradition_fishermen
+		tradition_seafaring
+		tradition_maritime_mercantilism
+	}
+	
+	name_list = name_list_goidelic
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0 0 }
+	house_coa_mask_scale = { 1 1 }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}

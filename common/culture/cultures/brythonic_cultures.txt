@@ -1,0 +1,184 @@
+﻿breton = {
+	color = breton
+	created = 769.1.1
+	parents = { brythonic }
+	
+	ethos = ethos_communal
+	heritage = heritage_brythonic
+	language = language_brythonic
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_collective_lands
+		tradition_longbow_competitions
+		tradition_storytellers
+		tradition_poetry
+		tradition_fishermen
+		tradition_seafaring
+		tradition_maritime_mercantilism
+	}
+	
+	name_list = name_list_breton
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0 0 }
+	house_coa_mask_scale = { 1 1 }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}
+
+cornish = {
+	color = cornish
+	created = 769.1.1
+	parents = { brythonic }
+	
+	ethos = ethos_communal
+	heritage = heritage_brythonic
+	language = language_brythonic
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_collective_lands
+		tradition_longbow_competitions
+		tradition_storytellers
+		tradition_poetry
+		tradition_fishermen
+		tradition_seafaring
+		tradition_maritime_mercantilism
+	}
+	
+	name_list = name_list_cornish
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0 0 }
+	house_coa_mask_scale = { 1 1 }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}
+
+cumbrian = {
+	color = cumbrian
+	created = 769.1.1
+	parents = { brythonic }
+	
+	ethos = ethos_communal
+	heritage = heritage_brythonic
+	language = language_brythonic
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_collective_lands
+		tradition_longbow_competitions
+		tradition_storytellers
+		tradition_poetry
+		tradition_fishermen
+		tradition_seafaring
+		tradition_maritime_mercantilism
+	}
+	
+	name_list = name_list_cumbrian
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0 0 }
+	house_coa_mask_scale = { 1 1 }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}
+
+welsh = {
+	color = welsh
+	created = 769.1.1
+	parents = { brythonic }
+	
+	ethos = ethos_communal
+	heritage = heritage_brythonic
+	language = language_brythonic
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_collective_lands
+		tradition_longbow_competitions
+		tradition_storytellers
+		tradition_poetry
+		tradition_fishermen
+		tradition_seafaring
+		tradition_maritime_mercantilism
+	}
+	
+	name_list = name_list_welsh
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0 0 }
+	house_coa_mask_scale = { 1 1 }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}
+
+pictish = {
+	color = pictish
+	created = 769.1.1
+	parents = { brythonic }
+	
+	ethos = ethos_communal
+	heritage = heritage_brythonic
+	language = language_brythonic
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_collective_lands
+		tradition_longbow_competitions
+		tradition_storytellers
+		tradition_poetry
+		tradition_fishermen
+		tradition_seafaring
+		tradition_maritime_mercantilism
+	}
+	
+	name_list = name_list_pictish
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0 0 }
+	house_coa_mask_scale = { 1 1 }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}

@@ -1,0 +1,25 @@
+﻿london = {
+	county = c_middlesex
+	barony = b_london
+}
+
+cardiff = {
+	county = c_glamorgan
+	barony = b_cardiff
+}
+
+edinburgh = {
+	county = c_lothian
+	barony = b_edinburgh
+}
+
+dublin = {
+	county = c_dublin
+	barony = b_dublin
+}
+
+reykjavik = {
+	county = c_vestisland
+	barony = b_reykjavik
+}
+s

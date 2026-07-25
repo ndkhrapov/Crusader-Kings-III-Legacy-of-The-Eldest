@@ -1,0 +1,29 @@
+﻿heritage_celtic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_celtic
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_brythonic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_brythonic
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_goidelic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_goidelic
+		}
+	}
+	audio_parameter = european
+}

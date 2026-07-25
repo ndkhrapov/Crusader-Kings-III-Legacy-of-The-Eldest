@@ -1,0 +1,69 @@
+﻿name_list_celtic = {
+	cadet_dynasty_names = { dynn_celtic }
+	dynasty_names = { dynn_celtic }
+	male_names = { celtic }
+	female_names = { celtic }
+}
+
+name_list_brythonic = {
+	cadet_dynasty_names = { dynn_brythonic }
+	dynasty_names = { dynn_brythonic }
+	male_names = { brythonic }
+	female_names = { brythonic }
+}
+
+name_list_goidelic = {
+	cadet_dynasty_names = { dynn_goidelic }
+	dynasty_names = { dynn_goidelic }
+	male_names = { goidelic }
+	female_names = { goidelic }
+}
+
+name_list_breton = {
+	cadet_dynasty_names = { dynn_breton }
+	dynasty_names = { dynn_breton }
+	male_names = { breton }
+	female_names = { breton }
+}
+
+name_list_cornish = {
+	cadet_dynasty_names = { dynn_cornish }
+	dynasty_names = { dynn_cornish }
+	male_names = { cornish }
+	female_names = { cornish }
+}
+
+name_list_cumbrian = {
+	cadet_dynasty_names = { dynn_cumbrian }
+	dynasty_names = { dynn_cumbrian }
+	male_names = { cumbrian }
+	female_names = { cumbrian }
+}
+
+name_list_welsh = {
+	cadet_dynasty_names = { dynn_welsh }
+	dynasty_names = { dynn_welsh }
+	male_names = { welsh }
+	female_names = { welsh }
+}
+
+name_list_pictish = {
+	cadet_dynasty_names = { dynn_pictish }
+	dynasty_names = { dynn_pictish }
+	male_names = { pictish }
+	female_names = { pictish }
+}
+
+name_list_irish = {
+	cadet_dynasty_names = { dynn_irish }
+	dynasty_names = { dynn_irish }
+	male_names = { irish }
+	female_names = { irish }
+}
+
+name_list_gaelic = {
+	cadet_dynasty_names = { dynn_gaelic }
+	dynasty_names = { dynn_gaelic }
+	male_names = { gaelic }
+	female_names = { gaelic }
+}
